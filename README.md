@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Startup Registration Application
 
 A full-stack application for registering startups and their available roles. Built with TypeScript, Express, React, and Prisma.
@@ -95,3 +96,7 @@ npm start
 
 - `GET /api/startups` - Retrieve all startups
 - `POST /api/startups` - Create a new startup 
+=======
+# sfmanagers
+sfmanagers
+>>>>>>> f9be8da16469a771ab34de539377bafb2b28502d
